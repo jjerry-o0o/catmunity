@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hey,earth</title>
+<title>Catmunity</title>
 </head>
 <body>
 <%@ include file="/WEB-INF/views/include/header.jsp"%>
