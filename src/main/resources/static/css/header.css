@@ -3,11 +3,17 @@
 .categorytext {
 	color:black;
 	text-decoration: none;
+	display:inline-block;
 }
 
 #logotext {
 	color:black;
 	text-decoration: none;
+	display:inline-block;
 }
 
-
+#member {
+	color:black;
+	text-decoration: none;
+	display:inline-block;
+}
